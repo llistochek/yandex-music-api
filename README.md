@@ -1,3 +1,5 @@
+# Не используйте данный форк, он создан лишь в качестве костыля для [yandex-music-downloader](https://github.com/llistochek/yandex-music-downloader)
+
 ## Yandex Music API
 
 > Делаю то, что по определённым причинам не сделала компания Yandex.
